@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/ldejager
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rwxlabs.github.io
+  * I am ldejager (https://keybase.io/ldejager) on keybase.
+  * I have a public key ASAWJJqv99SZYFDwK1i6y0rNLCA4K6hXPlgUG7xMAJzrigo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010153bc6711b5cea193eb170f92b28d9a69aebf825263a78e6d518270a4370f7ca80a",
+            "host": "keybase.io",
+            "kid": "012016249aaff7d4996050f02b58bacb4acd2c20382ba8573e58141bbc4c009ceb8a0a",
+            "uid": "17b78d34ed8b4bf85baa35221ca25719",
+            "username": "ldejager"
+        },
+        "service": {
+            "hostname": "rwxlabs.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1478435960,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1478435900,
+        "hash": "a74e4db3e6168c9a7da0b650ce71db76491f995297e94b45c75a1ee63804fb46e814549271e3a4cfa0ae4571535549ac320e4e6fc59a4e4b352c907233a63af5",
+        "seqno": 701980
+    },
+    "prev": "4abf80bc0596e0fee9d14679a652e4d243531b9471dae4d688adff1b874ff31f",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFiSar/fUmWBQ8CtYustKzSwgOCuoVz5YFBu8TACc64oKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNTNiYzY3MTFiNWNlYTE5M2ViMTcwZjkyYjI4ZDlhNjlhZWJmODI1MjYzYTc4ZTZkNTE4MjcwYTQzNzBmN2NhODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTYyNDlhYWZmN2Q0OTk2MDUwZjAyYjU4YmFjYjRhY2QyYzIwMzgyYmE4NTczZTU4MTQxYmJjNGMwMDljZWI4YTBhIiwidWlkIjoiMTdiNzhkMzRlZDhiNGJmODViYWEzNTIyMWNhMjU3MTkiLCJ1c2VybmFtZSI6ImxkZWphZ2VyIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJyd3hsYWJzLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDc4NDM1OTYwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0Nzg0MzU5MDAsImhhc2giOiJhNzRlNGRiM2U2MTY4YzlhN2RhMGI2NTBjZTcxZGI3NjQ5MWY5OTUyOTdlOTRiNDVjNzVhMWVlNjM4MDRmYjQ2ZTgxNDU0OTI3MWUzYTRjZmEwYWU0NTcxNTM1NTQ5YWMzMjBlNGU2ZmM1OWE0ZTRiMzUyYzkwNzIzM2E2M2FmNSIsInNlcW5vIjo3MDE5ODB9LCJwcmV2IjoiNGFiZjgwYmMwNTk2ZTBmZWU5ZDE0Njc5YTY1MmU0ZDI0MzUzMWI5NDcxZGFlNGQ2ODhhZGZmMWI4NzRmZjMxZiIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECJCsoaHX2dfqN6BsGwI6xwfZummL+MnluhH05s9ao9B5bPey0yNkMWGO9Nza2gVsXTcFS19TUnk+p86UMz2/wPqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgXsIU9woErLtX4z+zi3Iif9f18kOawtpMbArdte3kLXujdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ldejager
+
+==================================================================
